@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+    <title>Menu em CSS Dropdown Horizontal - Linha de Código</title>
+    <link rel="stylesheet" type="text/css"  href="index.0.html" />    
+</head>
+<body>
+<nav>
+  <ul class="menu">
+		<li><a href="#">CRIAÇÃO</a></li>
+		<li><a href="#">QUEM SOMOS?</a></li>
+		<li><a href="#">HISTÓRIA</a></li>
+	  		<li><a href="#">HISTÓRIA</a>
+	         	<ul>
+	                  <li><a href="#">POP</a></li>
+	                  <li><a href="#">MPB</a></li>
+	                  <li><a href="#">BLUES</a></li>
+					  <li><a href="#">HIP HOP/RAP</a></li>                     
+	       		</ul>
+			</li>
+		<li><a href="#">PLAYLISTS</a></li>               
+</ul>
+</nav>
+</body>
+</html>
